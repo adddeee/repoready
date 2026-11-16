@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/RepoReady.Core/RepoReady.Core.csproj" />
+  <Project Path="src/RepoReady.Cli/RepoReady.Cli.csproj" />
+  <Project Path="tests/RepoReady.Core.Tests/RepoReady.Core.Tests.csproj" />
+</Solution>
