@@ -12,6 +12,7 @@
     <Authors>RepoReady contributors</Authors>
     <Description>Explainable readiness checks for public GitHub repositories.</Description>
     <IsPackable>true</IsPackable>
+    <RepositoryUrl>https://github.com/adddeee/repoready</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\RepoReady.Core\RepoReady.Core.csproj" />

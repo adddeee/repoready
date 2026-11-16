@@ -3,5 +3,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <IsPackable>true</IsPackable>
+    <PackageId>RepoReady.Core</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>RepoReady contributors</Authors>
+    <Description>Core library for RepoReady readiness checks.</Description>
+    <RepositoryUrl>https://github.com/adddeee/repoready</RepositoryUrl>
   </PropertyGroup>
 </Project>
